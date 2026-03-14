@@ -135,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Database
+|  |
+| ------- |
+| [1934-confirmation-rate](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
