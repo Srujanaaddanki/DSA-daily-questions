@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1980-find-unique-binary-string) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Greedy
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0042-trapping-rain-water) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0347-top-k-frequent-elements) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
