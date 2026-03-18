@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1980-find-unique-binary-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Greedy
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## String
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Sorting
