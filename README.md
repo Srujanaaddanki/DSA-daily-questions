@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0347-top-k-frequent-elements) |
+| [0874-walking-robot-simulation](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0874-walking-robot-simulation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2751-robot-collisions) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0347-top-k-frequent-elements) |
+| [0874-walking-robot-simulation](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0874-walking-robot-simulation) |
 | [1980-find-unique-binary-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3548-equal-sum-grid-partition-ii) |
