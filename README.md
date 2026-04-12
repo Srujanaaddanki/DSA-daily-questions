@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0021-merge-two-sorted-lists) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
@@ -245,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3474-lexicographically-smallest-generated-string) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
