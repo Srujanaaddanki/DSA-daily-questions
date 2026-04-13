@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0058-length-of-last-word) |
 | [0657-robot-return-to-origin](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0657-robot-return-to-origin) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0042-trapping-rain-water) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2573-find-the-string-with-lcp) |
