@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0874-walking-robot-simulation) |
 | [1345-jump-game-iv](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1345-jump-game-iv) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2573-find-the-string-with-lcp) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Trie
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1345-jump-game-iv](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1345-jump-game-iv) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
