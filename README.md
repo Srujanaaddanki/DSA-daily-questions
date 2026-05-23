@@ -346,4 +346,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Tree
+|  |
+| ------- |
+## Binary Tree
+|  |
+| ------- |
 <!---LeetCode Topics End-->
