@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1792-maximum-average-pass-ratio](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1792-maximum-average-pass-ratio) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1792-maximum-average-pass-ratio](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1792-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1345-jump-game-iv](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1980-find-unique-binary-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2615-sum-of-distances) |
