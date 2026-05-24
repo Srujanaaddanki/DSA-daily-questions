@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2353-design-a-food-rating-system](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2353-design-a-food-rating-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1980-find-unique-binary-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2353-design-a-food-rating-system](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2353-design-a-food-rating-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2573-find-the-string-with-lcp) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-minimum-number-of-people-to-teach](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1980-find-unique-binary-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1980-find-unique-binary-string) |
+| [2353-design-a-food-rating-system](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2353-design-a-food-rating-system) |
 | [2540-minimum-common-value](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0347-top-k-frequent-elements) |
 | [1792-maximum-average-pass-ratio](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1792-maximum-average-pass-ratio) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2353-design-a-food-rating-system](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2353-design-a-food-rating-system) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Bucket Sort
 |  |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1622-fancy-sequence](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2069-walking-robot-simulation-ii) |
+| [2353-design-a-food-rating-system](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2353-design-a-food-rating-system) |
 ## Segment Tree
 |  |
 | ------- |
@@ -474,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3227-vowels-game-in-a-string) |
+## Ordered Set
+|  |
+| ------- |
+| [2353-design-a-food-rating-system](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2353-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
