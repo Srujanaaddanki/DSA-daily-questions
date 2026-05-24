@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1009-complement-of-base-10-integer) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -438,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3454-separate-squares-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
