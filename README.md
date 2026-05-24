@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3488-closest-equal-element-queries) |
+| [3495-minimum-operations-to-make-array-elements-zero](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1009-complement-of-base-10-integer) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
+| [3495-minimum-operations-to-make-array-elements-zero](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3495-minimum-operations-to-make-array-elements-zero](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3516-find-closest-person](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3516-find-closest-person) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
