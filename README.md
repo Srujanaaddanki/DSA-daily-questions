@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3408-design-task-manager](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3408-design-task-manager) |
 | [3488-closest-equal-element-queries](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3488-closest-equal-element-queries) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2353-design-a-food-rating-system](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2353-design-a-food-rating-system) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3408-design-task-manager](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3408-design-task-manager) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2069-walking-robot-simulation-ii) |
 | [2353-design-a-food-rating-system](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2353-design-a-food-rating-system) |
+| [3408-design-task-manager](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3408-design-task-manager) |
 ## Segment Tree
 |  |
 | ------- |
@@ -483,4 +486,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2353-design-a-food-rating-system](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2353-design-a-food-rating-system) |
+| [3408-design-task-manager](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3408-design-task-manager) |
 <!---LeetCode Topics End-->
