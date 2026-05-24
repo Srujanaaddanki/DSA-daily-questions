@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0085-maximal-rectangle) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2751-robot-collisions](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2751-robot-collisions) |
 ## Monotonic Stack
 |  |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-vowels-game-in-a-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3227-vowels-game-in-a-string) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Geometry
 |  |
