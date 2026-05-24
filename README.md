@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3452-sum-of-good-numbers](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3452-sum-of-good-numbers) |
 | [3454-separate-squares-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3484-design-spreadsheet](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3484-design-spreadsheet) |
 | [3488-closest-equal-element-queries](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3488-closest-equal-element-queries) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3484-design-spreadsheet](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3484-design-spreadsheet) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3227-vowels-game-in-a-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3227-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3484-design-spreadsheet](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3484-design-spreadsheet) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Recursion
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3408-design-task-manager](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3408-design-task-manager) |
+| [3484-design-spreadsheet](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3484-design-spreadsheet) |
 | [3488-closest-equal-element-queries](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3488-closest-equal-element-queries) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2069-walking-robot-simulation-ii) |
 | [2353-design-a-food-rating-system](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2353-design-a-food-rating-system) |
 | [3408-design-task-manager](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3408-design-task-manager) |
+| [3484-design-spreadsheet](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3484-design-spreadsheet) |
 ## Segment Tree
 |  |
 | ------- |
