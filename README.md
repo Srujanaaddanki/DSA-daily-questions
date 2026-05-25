@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3477-fruits-into-baskets-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3477-fruits-into-baskets-ii) |
+| [3479-fruits-into-baskets-iii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3479-fruits-into-baskets-iii) |
 | [3484-design-spreadsheet](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3484-design-spreadsheet) |
 | [3488-closest-equal-element-queries](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3488-closest-equal-element-queries) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3477-fruits-into-baskets-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3477-fruits-into-baskets-ii) |
+| [3479-fruits-into-baskets-iii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3479-fruits-into-baskets-iii) |
 | [3488-closest-equal-element-queries](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3454-separate-squares-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3477-fruits-into-baskets-ii) |
+| [3479-fruits-into-baskets-iii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3479-fruits-into-baskets-iii) |
 ## Enumeration
 |  |
 | ------- |
@@ -502,4 +505,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2353-design-a-food-rating-system](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2353-design-a-food-rating-system) |
 | [3408-design-task-manager](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3408-design-task-manager) |
 | [3477-fruits-into-baskets-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3477-fruits-into-baskets-ii) |
+| [3479-fruits-into-baskets-iii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3479-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
