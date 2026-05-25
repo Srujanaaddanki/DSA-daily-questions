@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3452-sum-of-good-numbers](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3452-sum-of-good-numbers) |
 | [3454-separate-squares-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3454-separate-squares-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3225-maximum-score-from-grid-operations) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3484-design-spreadsheet](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3484-design-spreadsheet) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3225-maximum-score-from-grid-operations) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3660-jump-game-ix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
