@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-vowel-spellchecker](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0966-vowel-spellchecker) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1306-jump-game-iii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1340-jump-game-v) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0085-maximal-rectangle) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0788-rotated-digits) |
 | [0808-soup-servings](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0837-new-21-game) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
