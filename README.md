@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1980-find-unique-binary-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2353-design-a-food-rating-system](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2353-design-a-food-rating-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
