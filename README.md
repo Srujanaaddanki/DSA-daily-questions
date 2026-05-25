@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0874-walking-robot-simulation) |
+| [0904-fruit-into-baskets](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-vowel-spellchecker](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0966-vowel-spellchecker) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0904-fruit-into-baskets) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Hash Table
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0347-top-k-frequent-elements) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0874-walking-robot-simulation) |
+| [0904-fruit-into-baskets](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-vowel-spellchecker](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0966-vowel-spellchecker) |
 | [1345-jump-game-iv](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1345-jump-game-iv) |
