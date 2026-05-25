@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0085-maximal-rectangle) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2463-minimum-total-distance-traveled) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0085-maximal-rectangle) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1504-count-submatrices-with-all-ones) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2751-robot-collisions](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2751-robot-collisions) |
 ## Monotonic Stack
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0085-maximal-rectangle) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1504-count-submatrices-with-all-ones) |
 ## Prefix Sum
 |  |
 | ------- |
