@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3225-maximum-score-from-grid-operations) |
