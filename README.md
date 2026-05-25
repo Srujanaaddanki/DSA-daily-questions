@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3452-sum-of-good-numbers](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3452-sum-of-good-numbers) |
 | [3454-separate-squares-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3477-fruits-into-baskets-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3477-fruits-into-baskets-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3477-fruits-into-baskets-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3477-fruits-into-baskets-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Dynamic Programming
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3454-separate-squares-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3477-fruits-into-baskets-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3477-fruits-into-baskets-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1622-fancy-sequence](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3454-separate-squares-ii) |
+| [3477-fruits-into-baskets-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3477-fruits-into-baskets-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -385,4 +389,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
