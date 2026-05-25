@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0788-rotated-digits) |
 | [0808-soup-servings](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0837-new-21-game) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0837-new-21-game](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0837-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0904-fruit-into-baskets) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Hash Table
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0788-rotated-digits) |
 | [0808-soup-servings](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0837-new-21-game) |
 | [0869-reordered-power-of-2](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0869-reordered-power-of-2) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -533,4 +536,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
