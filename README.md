@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1470-shuffle-the-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1470-shuffle-the-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
