@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0303-range-sum-query-immutable) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0078-subsets) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1980-find-unique-binary-string) |
 ## Two Pointers
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0476-number-complement) |
