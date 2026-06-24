@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0078-subsets) |
 | [0679-24-game](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0679-24-game) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1980-find-unique-binary-string) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0342-power-of-four) |
