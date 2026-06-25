@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0042-trapping-rain-water) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0011-container-with-most-water) |
 | [1323-maximum-69-number](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1323-maximum-69-number) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0061-rotate-list) |
