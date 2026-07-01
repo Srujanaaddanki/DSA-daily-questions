@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2197-replace-non-coprime-numbers-in-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2069-walking-robot-simulation-ii) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2751-robot-collisions) |
@@ -577,4 +579,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0808-soup-servings](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0837-new-21-game) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
