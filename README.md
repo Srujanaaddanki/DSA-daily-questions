@@ -417,9 +417,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Sweep Line
 |  |
 | ------- |
@@ -443,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2073-time-needed-to-buy-tickets) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
