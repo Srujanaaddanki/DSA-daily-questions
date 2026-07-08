@@ -417,10 +417,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Sweep Line
 |  |
@@ -448,5 +450,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
