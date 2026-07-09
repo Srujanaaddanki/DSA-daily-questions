@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0058-length-of-last-word) |
 | [0657-robot-return-to-origin](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0657-robot-return-to-origin) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0837-new-21-game](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0837-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0904-fruit-into-baskets) |
 | [1871-jump-game-vii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1871-jump-game-vii) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0347-top-k-frequent-elements) |
