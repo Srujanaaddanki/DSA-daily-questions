@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0679-24-game) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0347-top-k-frequent-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0307-range-sum-query-mutable) |
 | [1622-fancy-sequence](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2069-walking-robot-simulation-ii) |
 | [2353-design-a-food-rating-system](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2353-design-a-food-rating-system) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0307-range-sum-query-mutable) |
 | [1622-fancy-sequence](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3454-separate-squares-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3477-fruits-into-baskets-ii) |
@@ -608,4 +612,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
