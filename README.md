@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1914-cyclically-rotating-a-grid) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-soup-servings](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0808-soup-servings) |
 | [1622-fancy-sequence](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Geometry
