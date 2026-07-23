@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0396-rotate-function) |
+| [0724-find-pivot-index](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0724-find-pivot-index) |
 | [0874-walking-robot-simulation](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0994-rotting-oranges) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0724-find-pivot-index) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2906-construct-product-matrix) |
