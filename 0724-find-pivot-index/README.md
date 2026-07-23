@@ -47,3 +47,16 @@ Right sum = nums[1] + nums[2] = 1 + -1 = 0
 
 <p>&nbsp;</p>
 <p><strong>Note:</strong> This question is the same as&nbsp;1991:&nbsp;<a href="https://leetcode.com/problems/find-the-middle-index-in-array/" target="_blank">https://leetcode.com/problems/find-the-middle-index-in-array/</a></p>
+
+
+
+
+## Idea Approach 
+<img width="700" height="582" alt="image" src="https://github.com/user-attachments/assets/88f825f4-8436-46e2-acef-cbc2892f61a3" />
+
+
+here the reason why the 2nd input will not work with your idea 
+<img width="640" height="348" alt="image" src="https://github.com/user-attachments/assets/c42a771b-93dc-4127-beb5-6b47a377f99f" />
+
+
+
