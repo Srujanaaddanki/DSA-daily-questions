@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0724-find-pivot-index) |
 | [0874-walking-robot-simulation](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1020-number-of-enclaves) |
 | [1340-jump-game-v](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1340-jump-game-v) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0061-rotate-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1861-rotating-the-box](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1340-jump-game-v](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1340-jump-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
