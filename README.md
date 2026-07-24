@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0085-maximal-rectangle) |
 | [0994-rotting-oranges](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1504-count-submatrices-with-all-ones) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1345-jump-game-iv) |
