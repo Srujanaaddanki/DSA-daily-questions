@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1340-jump-game-v](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0994-rotting-oranges](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1345-jump-game-iv](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1559-detect-cycles-in-2d-grid) |
