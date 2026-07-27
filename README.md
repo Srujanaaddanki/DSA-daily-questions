@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0283-move-zeroes) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0347-top-k-frequent-elements) |
 | [0874-walking-robot-simulation](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0874-walking-robot-simulation) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0347-top-k-frequent-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0347-top-k-frequent-elements) |
 | [2833-furthest-point-from-origin](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2833-furthest-point-from-origin) |
 ## Quickselect
