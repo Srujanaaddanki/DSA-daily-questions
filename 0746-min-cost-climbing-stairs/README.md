@@ -37,3 +37,20 @@ The total cost is 6.
 	<li><code>2 &lt;= cost.length &lt;= 1000</code></li>
 	<li><code>0 &lt;= cost[i] &lt;= 999</code></li>
 </ul>
+
+here i have provided some pictures that why and how do we get to know when to use 
+dp[0] = 0 
+dp[1] = 0 
+ and 
+dp[0] = 1
+dp[1] = 1;
+
+<img width="689" height="495" alt="image" src="https://github.com/user-attachments/assets/b86e5364-0344-4a09-98a0-59431b083de2" />
+
+<img width="608" height="496" alt="image" src="https://github.com/user-attachments/assets/07e8dbf8-efdd-4a61-a892-c12dafa4e3bf" />
+
+<img width="646" height="458" alt="image" src="https://github.com/user-attachments/assets/0901d592-0daf-482d-b7df-34a7ca8aef1c" />
+
+
+
+
