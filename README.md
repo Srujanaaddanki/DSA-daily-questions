@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0342-power-of-four) |
@@ -662,5 +664,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
