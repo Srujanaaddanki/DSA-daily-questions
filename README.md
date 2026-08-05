@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0396-rotate-function) |
+| [0560-subarray-sum-equals-k](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0679-24-game](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0869-reordered-power-of-2](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0869-reordered-power-of-2) |
 | [0874-walking-robot-simulation](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0874-walking-robot-simulation) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
