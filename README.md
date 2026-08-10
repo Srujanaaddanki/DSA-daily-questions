@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0058-length-of-last-word) |
 | [0657-robot-return-to-origin](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0657-robot-return-to-origin) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0014-longest-common-prefix) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Breadth-First Search
