@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0966-vowel-spellchecker](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0966-vowel-spellchecker) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0869-reordered-power-of-2](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0869-reordered-power-of-2) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0869-reordered-power-of-2](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0869-reordered-power-of-2) |
 | [2833-furthest-point-from-origin](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2833-furthest-point-from-origin) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Binary Search Tree
 |  |
