@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0657-robot-return-to-origin) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0874-walking-robot-simulation) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2833-furthest-point-from-origin) |
 ## Quickselect
