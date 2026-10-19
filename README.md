@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0657-robot-return-to-origin) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1861-rotating-the-box](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2540-minimum-common-value) |
