@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2463-minimum-total-distance-traveled) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2751-robot-collisions) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
