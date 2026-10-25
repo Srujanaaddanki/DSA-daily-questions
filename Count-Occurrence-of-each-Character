@@ -1,0 +1,19 @@
+
+import java.util.*;
+class Main{
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        String s = sc.nextLine();
+        HashMap<Character,Integer> hm = new HashMap<>();
+        for(int i=0; i<s.length(); i++){
+            char ch = s.charAt(i);
+            hm.put(ch,hm.getOrDefault(ch,0)+1);
+        }
+        for(char key : hm.keySet()){
+            System.out.println(key + " : "  + hm.get(key));
+        }
+        sc.close();
+    }
+}
+
+this above code is for checking - count occurrance of each character 
