@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0197-rising-temperature) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/0620-not-boring-movies) |
 | [1251-average-selling-price](https://github.com/Srujanaaddanki/DSA-daily-questions/tree/master/1251-average-selling-price) |
